@@ -21,6 +21,5 @@ And here are the awesome things that I used to build them.
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=fringewidth&title_color=4493F8&border_color=30363D&layout=compact&langs_count=8&theme=transparent&size_weight=0.4&count_weight=0.6) 
 &nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,git,mongodb,postgres,pytorch,express,vite,azure,threejs,supabase,css&perline=4)](https://skillicons.dev)
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />
 
-Here are some awesome projects I've built with my friends. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />
+Below are some awesome projects I've built with my friends. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />
