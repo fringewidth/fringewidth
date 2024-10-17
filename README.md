@@ -18,7 +18,7 @@ Over the last two years, I've made a lot of things I'm very proud of!
 
 And here are the awesome things that I used to build them.
 
-![JavaScript, Java, Jupyter, CSS, Python, HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=fringewidth&title_color=4493F8&border_color=30363D&layout=compact&langs_count=8&theme=transparent&size_weight=0.4&count_weight=0.6) 
+![JavaScript, Java, Jupyter, CSS, Python, HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=fringewidth&title_color=4493F8&border_color=30363D&layout=compact&langs_count=8&theme=transparent&hide=jupyter%20notebook) 
 &nbsp; &nbsp;
 [![React.js, Node.js, Git, MongoDB, PostgreSQL, PyTorch, Express.js, Vite, Azure, Three.js, Supabase, CSS](https://skillicons.dev/icons?i=react,nodejs,git,mongodb,postgres,pytorch,express,vite,azure,threejs,supabase,css&perline=4)](https://skillicons.dev)
 
