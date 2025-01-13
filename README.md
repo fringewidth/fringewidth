@@ -16,6 +16,12 @@ Over the last two years, I've made a lot of things I'm very proud of!
 [![NumPy Complete](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=numpy-complete&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/numpy-complete#gh-dark-mode-only)
 [![numpy-complete](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=numpy-complete&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/numpy-complete#gh-light-mode-only)
 
+[![Connect4](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=Connect4&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/Connect4#gh-dark-mode-only)
+[![Connect4](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=Connect4&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/Connect4#gh-light-mode-only)
+
+[![Towards Medical Equity](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=towardsmedicalequity&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/towardsmedicalequity#gh-dark-mode-only)
+[![towardsmedicalequity](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=towardsmedicalequity&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/towardsmedicalequity#gh-light-mode-only)
+
 And here are the awesome things that I used to build them.
 
 ![JavaScript, Java, Jupyter, CSS, Python, HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=fringewidth&title_color=4493F8&border_color=30363D&layout=compact&langs_count=8&theme=transparent&hide=jupyter%20notebook) 
