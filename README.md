@@ -1,7 +1,4 @@
-## Hi! I'm Hrishik. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="&#128075;" width="35" height="35" />
-I'm chasing a degree in Computer Science at RV Institute of Technology and Management 
-
-Over the last two years, I've made a lot of things I'm very proud of!
+Repositories
 
 [![Ved](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=ved&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/ved#gh-dark-mode-only)
 [![Ved](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=ved&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/ved#gh-light-mode-only)
@@ -20,9 +17,14 @@ Over the last two years, I've made a lot of things I'm very proud of!
 [![Towards Medical Equity](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=towardsmedicalequity&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/towardsmedicalequity#gh-dark-mode-only)
 [![towardsmedicalequity](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=towardsmedicalequity&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/towardsmedicalequity#gh-light-mode-only)
 
-And here are the awesome things that I used to build them.
+---
 
-![JavaScript, Java, Jupyter, CSS, Python, HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=fringewidth&title_color=4493F8&border_color=30363D&layout=compact&langs_count=8&theme=transparent&hide=jupyter%20notebook) 
+## Hi! I'm Hrishik. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="&#128075;" width="35" height="35" />
+I'm currently doing the last semester of my undergrad CS degree, while interning in the core engineering team of a mobile games startup.
+
+Here's the tech stack that got me through <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />
+
+![JavaScript, Java, Jupyter, CSS, Python, HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=fringewidth&title_color=4493F9&border_color=30363D&layout=compact&langs_count=8&theme=transparent&hide=jupyter%20notebook) 
 &nbsp; &nbsp;
 [![React.js, Node.js, Git, MongoDB, PostgreSQL, PyTorch, Express.js, Vite, Azure, Three.js, Supabase, CSS](https://skillicons.dev/icons?i=react,nodejs,git,mongodb,postgres,pytorch,express,vite,azure,threejs,supabase,css&perline=4)](https://skillicons.dev)
 
