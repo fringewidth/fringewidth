@@ -22,9 +22,9 @@ Repositories
 ## Hi! I'm Hrishik. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="&#128075;" width="35" height="35" />
 I'm currently doing the last semester of my undergrad CS degree, while interning in the core engineering team of a mobile games startup.
 
-Here's the tech stack that got me through <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />
+Here's the tech stack that got me through <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="&#x1F493;" width="25" height="25" />
 
-![JavaScript, Java, Jupyter, CSS, Python, HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=fringewidth&title_color=4493F9&border_color=30363D&layout=compact&langs_count=8&theme=transparent&hide=jupyter%20notebook) 
+![JavaScript, Python, C++, Java, CSS, Go, HTML, CMake](https://github-readme-stats.vercel.app/api/top-langs/?username=fringewidth&title_color=4493F9&border_color=30363D&layout=compact&langs_count=8&theme=transparent&hide=jupyter%20notebook) 
 &nbsp; &nbsp;
 [![React.js, Node.js, Git, MongoDB, PostgreSQL, PyTorch, Express.js, Vite, Azure, Three.js, Supabase, CSS](https://skillicons.dev/icons?i=react,nodejs,git,mongodb,postgres,pytorch,express,vite,azure,threejs,supabase,css&perline=4)](https://skillicons.dev)
 
