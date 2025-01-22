@@ -26,6 +26,6 @@ Here's the tech stack that got me through <img src="https://raw.githubuserconten
 
 ![JavaScript, Python, C++, Java, CSS, Go, HTML, CMake](https://github-readme-stats.vercel.app/api/top-langs/?username=fringewidth&title_color=4493F9&border_color=30363D&layout=compact&langs_count=8&theme=transparent&hide=jupyter%20notebook) 
 &nbsp; &nbsp;
-[![React.js, Node.js, Git, MongoDB, PostgreSQL, PyTorch, Express.js, Vite, Azure, Three.js, Supabase, CSS](https://skillicons.dev/icons?i=react,nodejs,git,mongodb,postgres,pytorch,express,vite,azure,threejs,supabase,css&perline=4)](https://skillicons.dev)
+[![React.js, Node.js, Git, MongoDB, PostgreSQL, PyTorch, Express.js, Vite, Azure, Three.js, Supabase, CSS](https://skillicons.dev/icons?i=mongodb,postgres,azure,supabase,react,nodejs,threejs,vite,pytorch,selenium,sklearn,git&perline=4)](https://skillicons.dev)
 
 Below are some amazing projects I've built with my friends. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="&#128071;" width="25" height="25" />
