@@ -1,26 +1,81 @@
 Repositories
 
-[![Ved](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=ved&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/ved#gh-dark-mode-only)
-[![Ved](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=ved&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/ved#gh-light-mode-only)
-[![State of the World](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=stateoftheworld&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/stateoftheworld#gh-dark-mode-only)
-[![State of the World](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=stateoftheworld&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/stateoftheworld#gh-light-mode-only)
-[![JFit2](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=jfit2&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/jfit2#gh-dark-mode-only)
-[![jfit2](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=jfit2&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/jfit2#gh-light-mode-only)
-[![CppFit](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=cppFit&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/cppFit#gh-dark-mode-only)
-[![Cppfit](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=cppFit&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/cppFit#gh-light-mode-only)
-[![Raven](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=raven&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/raven#gh-dark-mode-only)
-[![raven](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=raven&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/raven#gh-light-mode-only)
-[![NumPy Complete](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=numpy-complete&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/numpy-complete#gh-dark-mode-only)
-[![numpy-complete](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=numpy-complete&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/numpy-complete#gh-light-mode-only)
-[![Connect4](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=Connect4&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/Connect4#gh-dark-mode-only)
-[![Connect4](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=Connect4&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/Connect4#gh-light-mode-only)
-[![Towards Medical Equity](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=towardsmedicalequity&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only)](https://github.com/fringewidth/towardsmedicalequity#gh-dark-mode-only)
-[![towardsmedicalequity](https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=towardsmedicalequity&theme=transparent#gh-light-mode-only)](https://github.com/fringewidth/towardsmedicalequity#gh-light-mode-only)
+<figure>
+  <a href="https://github.com/fringewidth/ved#gh-dark-mode-only" aria-label="Ved - Full-stack app promoting research collaboration with vanilla CSS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=ved&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only" alt="Ved repository: Full-stack app promoting research collaboration with vanilla CSS" />
+  </a>
+  <a href="https://github.com/fringewidth/ved#gh-light-mode-only" aria-label="Ved - Full-stack app promoting research collaboration with vanilla CSS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=ved&theme=transparent#gh-light-mode-only" alt="Ved repository: Full-stack app promoting research collaboration with vanilla CSS" />
+  </a>
+</figure>
+
+<figure>
+  <a href="https://github.com/fringewidth/stateoftheworld#gh-dark-mode-only" aria-label="State of the World - One stop climate change tracker built with MERN and Azure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=stateoftheworld&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only" alt="State of the World repository: One stop climate change tracker built with MERN and Azure" />
+  </a>
+  <a href="https://github.com/fringewidth/stateoftheworld#gh-light-mode-only" aria-label="State of the World - One stop climate change tracker built with MERN and Azure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=stateoftheworld&theme=transparent#gh-light-mode-only" alt="State of the World repository: One stop climate change tracker built with MERN and Azure" />
+  </a>
+</figure>
+
+<figure>
+  <a href="https://github.com/fringewidth/jfit2#gh-dark-mode-only" aria-label="jfit2 - Empirical complexity guesser written in Java and Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=jfit2&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only" alt="jfit2 repository: Empirical complexity guesser written in Java and Python" />
+  </a>
+  <a href="https://github.com/fringewidth/jfit2#gh-light-mode-only" aria-label="jfit2 - Empirical complexity guesser written in Java and Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=jfit2&theme=transparent#gh-light-mode-only" alt="jfit2 repository: Empirical complexity guesser written in Java and Python" />
+  </a>
+</figure>
+
+<figure>
+  <a href="https://github.com/fringewidth/cppFit#gh-dark-mode-only" aria-label="cppFit - A complexity analyzer written in C++ and Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=cppFit&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only" alt="cppFit repository: A complexity analyzer written in C++ and Python" />
+  </a>
+  <a href="https://github.com/fringewidth/cppFit#gh-light-mode-only" aria-label="cppFit - A complexity analyzer written in C++ and Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=cppFit&theme=transparent#gh-light-mode-only" alt="cppFit repository: A complexity analyzer written in C++ and Python" />
+  </a>
+</figure>
+
+<figure>
+  <a href="https://github.com/fringewidth/raven#gh-dark-mode-only" aria-label="Raven - A graph based alternative to PCA for feature selection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=raven&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only" alt="Raven repository: A graph based alternative to PCA for feature selection" />
+  </a>
+  <a href="https://github.com/fringewidth/raven#gh-light-mode-only" aria-label="Raven - A graph based alternative to PCA for feature selection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=raven&theme=transparent#gh-light-mode-only" alt="Raven repository: A graph based alternative to PCA for feature selection" />
+  </a>
+</figure>
+
+<figure>
+  <a href="https://github.com/fringewidth/numpy-complete#gh-dark-mode-only" aria-label="NumPy Complete - MNIST from scratch with NumPy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=numpy-complete&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only" alt="NumPy Complete repository: MNIST from scratch with NumPy" />
+  </a>
+  <a href="https://github.com/fringewidth/numpy-complete#gh-light-mode-only" aria-label="NumPy Complete - MNIST from scratch with NumPy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=numpy-complete&theme=transparent#gh-light-mode-only" alt="NumPy Complete repository: MNIST from scratch with NumPy" />
+  </a>
+</figure>
+
+<figure>
+  <a href="https://github.com/fringewidth/Connect4#gh-dark-mode-only" aria-label="Connect4 - A concurrent, online multiplayer Connect4 game written in C++ and Go with real-time WebSockets and an AI bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=Connect4&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only" alt="Connect4 repository: A concurrent, online multiplayer Connect4 game written in C++ and Go with real-time WebSockets and an AI bot" />
+  </a>
+  <a href="https://github.com/fringewidth/Connect4#gh-light-mode-only" aria-label="Connect4 - A concurrent, online multiplayer Connect4 game written in C++ and Go with real-time WebSockets and an AI bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=Connect4&theme=transparent#gh-light-mode-only" alt="Connect4 repository: A concurrent, online multiplayer Connect4 game written in C++ and Go with real-time WebSockets and an AI bot" />
+  </a>
+</figure>
+
+<figure>
+  <a href="https://github.com/fringewidth/towardsmedicalequity#gh-dark-mode-only" aria-label="Towards Medical Equity - Scrambling hospital locations while keeping the data useful">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=towardsmedicalequity&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only" alt="Towards Medical Equity repository: Scrambling hospital locations while keeping the data useful" />
+  </a>
+  <a href="https://github.com/fringewidth/towardsmedicalequity#gh-light-mode-only" aria-label="Towards Medical Equity - Scrambling hospital locations while keeping the data useful">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=towardsmedicalequity&theme=transparent#gh-light-mode-only" alt="Towards Medical Equity repository: Scrambling hospital locations while keeping the data useful" />
+  </a>
+</figure>
 
 ---
 
 ## Hi! I'm Hrishik. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="&#128075;" width="35" height="35" />
-I'm currently doing the last semester of my undergrad CS degree, while interning in the core engineering team of a mobile games startup.
+I'm currently doing the last semester of my undergrad Honours CS degree, while interning in the core engineering team of a mobile games startup.
 
 Here's the tech stack that got me through <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="&#x1F493;" width="25" height="25" />
 
