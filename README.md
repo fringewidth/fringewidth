@@ -55,17 +55,18 @@ Repositories
 </figure>
 
 <figure>
-  <a href="https://github.com/fringewidth/Connect4#gh-dark-mode-only" aria-label="Connect4 - A concurrent, online multiplayer Connect4 game written in C++ and Go with real-time WebSockets and an AI bot.">
+  <a href="https://github.com/fringewidth/Connect4#gh-dark-mode-only" aria-label="Online multiplayer Connect4 with Websockets and Minimax.">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=Connect4&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only" alt="Connect4 - Online multiplayer Connect4 with Websockets and Minimax." />
   </a>
   <a href="https://github.com/fringewidth/Connect4#gh-light-mode-only" aria-label="Online multiplayer Connect4 with Websockets and Minimax." 
-    alt="Online multiplayer Connect4 with Websockets and Minimax." />
+    alt="Online multiplayer Connect4 with Websockets and Minimax." >
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=Connect4&theme=transparent#gh-light-mode-only" alt="Connect4 - Online multiplayer Connect4 with Websockets and Minimax." />
   </a>
 </figure>
 
 <figure>
   <a href="https://github.com/fringewidth/towardsmedicalequity#gh-dark-mode-only" aria-label="Towards Medical Equity - Scrambling hospital locations while keeping the data useful.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=towardsmedicalequity&title_color=4493F8&border_color=30363D&theme=github_dark#gh-dark-mode-only" alt="Towards Medical Equity - Scrambling hospital locations while keeping the data useful." />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=towardsmedicalequity&title_color=4493F8&&border_color=30363D&theme=github_dark#gh-dark-mode-only" alt="Towards Medical Equity - Scrambling hospital locations while keeping the data useful." />
   </a>
   <a href="https://github.com/fringewidth/towardsmedicalequity#gh-light-mode-only" aria-label="Towards Medical Equity - Scrambling hospital locations while keeping the data useful.">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fringewidth&repo=towardsmedicalequity&theme=transparent#gh-light-mode-only" alt="Towards Medical Equity - Scrambling hospital locations while keeping the data useful." />
